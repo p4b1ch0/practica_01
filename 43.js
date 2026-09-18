@@ -1,0 +1,1 @@
+const codigos = { ...precios, codigoDescuento: true };

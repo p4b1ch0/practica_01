@@ -1,0 +1,1 @@
+precios.set("manzana", 1.50);

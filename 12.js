@@ -1,0 +1,1 @@
+console.log(codigos.has(99));

@@ -1,0 +1,1 @@
+precios.set(101, "descuento");
